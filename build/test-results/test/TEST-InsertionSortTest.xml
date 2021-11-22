@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InsertionSortTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-22T16:00:57" hostname="DESKTOP-4SCTDTH" time="0.021">
+  <properties/>
+  <testcase name="unsortedArrayWithRepeatedElements" classname="InsertionSortTest" time="0.021"/>
+  <testcase name="emptyArray" classname="InsertionSortTest" time="0.0"/>
+  <testcase name="unsortedArray" classname="InsertionSortTest" time="0.0"/>
+  <testcase name="sortedArray" classname="InsertionSortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
